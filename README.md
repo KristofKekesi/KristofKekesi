@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**KristofKekesi/KristofKekesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Elements][elements]
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on translations from english to hungarian
+- 📫 How to reach me: kristofkekesiofficial@gmail.com
+- [Website][website]
 
-Here are some ideas to get you started:
+[website]: https://kekesi.dev
+[elements]: https://github.com/KristofKekesi/Elements/blob/master/README.md
+[nasamira]: https://github.com/KristofKekesi/NASA-Mira/blob/master/README.md
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Kristóf's GitHub stats](https://github-readme-stats.vercel.app/api?username=KristofKekesi&show_icons=true&title_color=eb8c10&icon_color=eb8c10)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristofKekesi&title_color=eb8c10)](https://github.com/anuraghazra/github-readme-stats&card_width=100px)
