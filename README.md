@@ -14,3 +14,5 @@
 [website]: https://kekesi.dev
 [elements]: https://github.com/KristofKekesi/Elements/blob/master/README.md
 [nasamira]: https://github.com/KristofKekesi/NASA-Mira/blob/master/README.md
+
+[article about Elements](https://flutterfix.com/a-flutter-app-to-track-the-chemistry-chemical-elements/)
