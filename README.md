@@ -11,7 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristofKekesi&title_color=eb8c10)](https://github.com/anuraghazra/github-readme-stats&card_width=100px)
 
-[website]: https://kekesi.dev
+[website]: https://www.kekesi.dev
 [elements]: https://github.com/KristofKekesi/Elements/blob/master/README.md
 [nasamira]: https://github.com/KristofKekesi/NASA-Mira/blob/master/README.md
 
