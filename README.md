@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on translations from english to hungarian
 - 📫 How to reach me: kristofkekesiofficial@gmail.com
-- [Website][website]
+- 🌐 [Website][website]
 
 ---
 
