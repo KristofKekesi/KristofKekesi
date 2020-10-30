@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on [Elements][elements]
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate
+- 👯 I’m looking for collaboration
 - 📫 How to reach me: kristofkekesiofficial@gmail.com
 - 🌐 [Website][website]
 
