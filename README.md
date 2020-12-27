@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on [Preacher][preacher]
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning C# and Xaml
 - 👯 I’m looking for collaboration
 - 📫 How to reach me: kristofkekesiofficial@gmail.com
 - 🌐 [Website][website]
