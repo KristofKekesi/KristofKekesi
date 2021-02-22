@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on [Preacher][preacher]
+- 🔭 I’m currently working on [Preacher][preacher], [Elements][elements] and [Nasa Mira][nasamira]
 - 🌱 I’m currently learning C# and Xaml
 - 👯 I’m looking for collaboration
 - 📫 How to reach me: kristofkekesiofficial@gmail.com
