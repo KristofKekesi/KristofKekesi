@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on my Portfolio site
+- 🔭 I’m currently working on [the Mira Collection][nasamira]
 - 👯 I’m looking forward to collaborate
 - 📫 How to reach me: kristofkekesiofficial@gmail.com
 - 🌐 [Website][website]
